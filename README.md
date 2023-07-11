@@ -1,5 +1,5 @@
 # Ynnus098-
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<!--<h1 style="color: #44AEFB;"> 👨🏻‍💻 sunny Thakur </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
@@ -13,6 +13,7 @@
 </div>
 </p>    
 <br>
+-->
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -100,7 +101,7 @@
 <br>
 <br>
 
-<!-- Latest YouTube Videos -->
+<!--<!-- Latest YouTube Videos -->
 
 <h2 style="color: #44AEFB">🎦 Latest YouTube Videos</h2>
 <br />
@@ -129,7 +130,7 @@
     </a> 
 </div>
 <br>
-<!-- End Youtube Buttons -->
+<!-- End Youtube Buttons --> -->
 
 <!-- Statistics -->
 
@@ -144,14 +145,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Sunny Thakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ynnus098&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ynnus098&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynnus098&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynnus098&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
