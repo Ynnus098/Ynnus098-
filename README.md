@@ -103,7 +103,7 @@
 
 <!--<!-- Begin Stats Cards -->
 
-![Sunny Thakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunny's Thakur&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Sunny Thakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ynnus098&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ynnus098&count_private=true&theme=algolia&border_radius=20)
 
