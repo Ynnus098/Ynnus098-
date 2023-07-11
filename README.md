@@ -113,3 +113,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynnus098&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
+
+<!--New stats-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ynnus098&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SunnyThakur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ynnus098&show_icons=true&locale=en&theme=tokyonight" alt="SunnyThakur" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ynnus098&&theme=tokyonight" alt="SunnyThakur" /></p>
